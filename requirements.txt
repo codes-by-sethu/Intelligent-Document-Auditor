@@ -1,4 +1,4 @@
-# AI Framework (Resolved for Local/Free)
+# AI Framework (2026 Stable - Local/Free)
 langchain>=1.2.6
 langchain-core>=1.2.7
 langchain-community>=0.4.0
@@ -6,7 +6,7 @@ langchain-ollama>=0.2.2
 langchain-chroma>=0.1.4
 langchain-text-splitters>=0.3.0
 
-# Dependencies
+# Dependencies (Stabilized for Windows/NumPy 1.x)
 pydantic>=2.10.5
 pydantic-settings>=2.7.1
 chromadb==0.4.24

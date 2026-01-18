@@ -11,6 +11,7 @@ __pycache__/
 .streamlit/
 
 # Local PDF files (Temp uploads)
+
 ref.pdf
 suspect.pdf
 temp_ref.pdf

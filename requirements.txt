@@ -1,0 +1,19 @@
+# AI Framework (Resolved for Local/Free)
+langchain>=1.2.6
+langchain-core>=1.2.7
+langchain-community>=0.4.0
+langchain-ollama>=0.2.2
+langchain-chroma>=0.1.4
+langchain-text-splitters>=0.3.0
+
+# Dependencies
+pydantic>=2.10.5
+pydantic-settings>=2.7.1
+chromadb==0.4.24
+streamlit==1.30.0
+python-dotenv==1.0.1
+pypdf==4.0.1
+
+# Critical Hardware Bridges
+numpy<2.0.0
+opencv-python<4.10.0

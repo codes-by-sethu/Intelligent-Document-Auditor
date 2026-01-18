@@ -1,0 +1,20 @@
+# Environments
+.env
+.venv
+audit_env/
+
+# Python Caches
+__pycache__/
+*.py[cod]
+
+# Streamlit
+.streamlit/
+
+# Local PDF files (Temp uploads)
+ref.pdf
+suspect.pdf
+temp_ref.pdf
+temp_audit.pdf
+
+# Vector Databases
+chroma_db/

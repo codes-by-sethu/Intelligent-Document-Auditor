@@ -41,8 +41,6 @@ An automated data integrity tool designed to identify discrepancies and unauthor
     streamlit run app.py
     ```
 
-## 📊 CV-Ready Summary
-> "Engineered a local Forensic RAG pipeline as an **Intern Digital Accelerator** to automate document auditing. Implemented MMR-based retrieval and dynamic pathing to identify financial and date discrepancies in 10-paragraph enterprise contracts with 100% data privacy."
 
 ---
 **Developer**: [Sethukb](https://www.linkedin.com/in/sethukb/)  
